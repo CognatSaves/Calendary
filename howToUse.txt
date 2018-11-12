@@ -1,0 +1,8 @@
+npm start - to start
+
+Set month - 1)directly - 2 inputs & button "Set month" - look at examples
+	    2)Use arrows
+Click on day - add event on it
+Big plus button - add event on choosed day
+Button "Расширенный"/"Компактный" changes the type of calendary
+You can see event examples at October 2018.
